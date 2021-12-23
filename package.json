@@ -1,0 +1,21 @@
+{
+  "name": "@easy-payment/base",
+  "version": "0.0.1",
+  "description": "structural interface for easy-payment adaptors",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "keywords": [
+    "easy-payment",
+    "payment",
+    "gateway"
+  ],
+  "author": "Instigate Mobile CJCS",
+  "license": "MIT",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/InstigateMobile/easy-payment-base"
+  }
+}
