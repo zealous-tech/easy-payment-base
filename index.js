@@ -1,4 +1,4 @@
-import { BaseGateway } from './lib/BaseGateway.js';
-export default {
+import BaseGateway from './lib/BaseGateway.js';
+export {
     BaseGateway
 };
