@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "structural interface for easy-payment adaptors",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "exit 0"
   },
@@ -11,11 +12,11 @@
     "payment",
     "gateway"
   ],
-  "author": "Instigate Mobile CJCS",
+  "author": "zealous",
   "license": "MIT",
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/InstigateMobile/easy-payment-base"
+    "url": "https://github.com/zealous-tech/easy-payment-base"
   }
 }

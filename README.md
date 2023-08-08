@@ -37,6 +37,7 @@ Allow to add new card in payment gateway merchant account.
 * `'returnUrl'` *(string)*: The returnUrl of the transaction.
 * `'description'` *(string)*: The description of the transaction.
 * `'clientId'` *(string)*: The clientId of the transaction.
+* `'currency'` *(string)*: The currency code of the transaction.
 
 `other` *(object)*
 

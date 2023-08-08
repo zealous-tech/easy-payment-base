@@ -1,3 +1,4 @@
-module.exports = {
-    BaseGateway: require('./lib/BaseGateway.js')
+import BaseGateway from './lib/BaseGateway.js';
+export {
+    BaseGateway
 };
